@@ -1,0 +1,21 @@
+Course Resources: Exercise Files
+
+Bug: Something unexpected happens
+Crash: Stops early or freezes
+Computer instructions are sequential and very specific.
+
+Each programming language has its own syntax (rules) and its own semantics (meaning).
+Different languages have different functions ranging from simple calculations to deep and complex AI.
+High level languages are closer to human languages, easier to learn through structure and syntax so it can be converted into machine language which is just 1's and 0's
+
+Source code: Instructions for computer in plain text.
+Word process applications are unsuitable, use a text editor (Notepad/Text Edit/external editor)
+Never use rich text format as bold/italics are improper for programming. Plain text is fine.
+Use extension of the programming language while saving. To convert to machine language, we need a compiler/interpreter or both.
+
+Compiler: High Level ---(converted)---> Low Level Machine code. (Eg. C++ and C)
+Interpreter: Process source code line by line, and needed to run the code everytime by re-interpreting. (Eg. Javascript and PHP)
+Combination: Java, C# and Python. [Methods from both Compiled and Interpreted Languages]
+
+IDE: Integrated Development Environment [Make writing code faster by providing special tools and features]
+[Eg. Visual Studio Code and XCode]
