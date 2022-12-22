@@ -1,11 +1,13 @@
 Course Resources: Exercise Files
 
+Programming can be defined as: converting ideas into instructions that a computer can understand.
+
 Bug: Something unexpected happens
 Crash: Stops early or freezes
 Computer instructions are sequential and very specific.
 
 Each programming language has its own syntax (rules) and its own semantics (meaning).
-Different languages have different functions ranging from simple calculations to deep and complex AI.
+Different languages have different functions to address many different computing needs, ranging from simple calculations to deep and complex AI.
 High level languages are closer to human languages, easier to learn through structure and syntax so it can be converted into machine language which is just 1's and 0's
 
 Source code: Instructions for computer in plain text.
@@ -19,3 +21,8 @@ Combination: Java, C# and Python. [Methods from both Compiled and Interpreted La
 
 IDE: Integrated Development Environment [Make writing code faster by providing special tools and features]
 [Eg. Visual Studio Code and XCode]
+VSCode has Intellisense to autocomplete code by getting code suggestions. 
+
+Why doesn't a Python file execute when you double-click it?
+Double-clicking does not run the Python Interpreter on the source code.
+
