@@ -7,9 +7,11 @@ Javascript: Work and Manipulate webpages/web-applications or some non-web applic
 Python: General Purpose - Web Apps, Company tools, scientific analysis and create games.
 Python is also available on all 3 major platforms.
 
-Mac comes shipped with Python. To check the version, we can use the terminal app to work in directories and execute scripts, work with Python. Terminal: Utilities. Cmd+Space and Terminal type. python (gives version of python). 
+Mac comes shipped with Python. Check version -> Terminal app (Work in directories and execute scripts; Work with Python.) 
+Terminal: Utilities. Cmd+Space. 
+python (gives version of python). 
 Print out - Display result of command on screen.
 Version number: New features/changes/impact on language.
-Inside python prompt = >>>
+Inside python prompt: ">>>"
 exit() function to exit terminal/install latest version using wizard from .org page for python3
 
