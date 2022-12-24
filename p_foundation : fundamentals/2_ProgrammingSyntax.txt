@@ -1,1 +1,8 @@
+Popular + Easy to Learn = Course Language
+5 Most Popular:
+Java, C++, C#, Python, Javascript
 
+Python and Javascript = Concise, Fewer Syntax Requirements and easier to understand. 
+Javascript: Work and Manipulate webpages/web-applications or some non-web applications.
+Python: General Purpose - Web Apps, Company tools, scientific analysis and create games
+Python is also available on all 3 major platforms.
