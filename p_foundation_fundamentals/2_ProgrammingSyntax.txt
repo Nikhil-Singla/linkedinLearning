@@ -20,11 +20,20 @@ Python on windows via their website.
 Version number: New features/changes/impact on language.
 Executable version.
 
-Run python using command line/Python interpretor.
+Run python using command line/Python interpreter.
 Syntax = Rules of programming language.
 Syntax error = Errors breaking the expected rules (writing code in plain English)
 CRTL+D = Shortcut exit
 cd = Change Directory
 ls = List command
 python3 <name_of_file.py>
+
+Python shell = Python interpreter
+python <name_of_file.py>
+dir = Directory
+
+VSCode is an IDE. Download, Zip folder -> Applications, Open the app.
+Learn -> Interface Overview [Learn yourself!]
+Need python extension -> Tools -> "Languages" -> Python, and then restart.
+Interpreter is needed to be installed using Command Pallete and then Python Interpreter
 
