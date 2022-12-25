@@ -20,3 +20,11 @@ Python on windows via their website.
 Version number: New features/changes/impact on language.
 Executable version.
 
+Run python using command line/Python interpretor.
+Syntax = Rules of programming language.
+Syntax error = Errors breaking the expected rules (writing code in plain English)
+CRTL+D = Shortcut exit
+cd = Change Directory
+ls = List command
+python3 <name_of_file.py>
+
