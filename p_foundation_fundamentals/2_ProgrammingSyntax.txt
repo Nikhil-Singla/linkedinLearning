@@ -44,3 +44,14 @@ File -> Open Folder -> Chose files.
 Line numbers is also called as the Gutter
 Use color = Syntax highlighting to print out special key words.
 Occurs using the file extension. We can run one single line as well using right click menu.
+
+Statement = Building blocks of programms, individual actions taken.
+Made of Keywords, Expressions and Operators.
+Operators = Symbols that tell computer to perform actions with some input.
+Ex. +, -, * and / for Arithemetic Operators.
+Inputs aka Operands.
+Expressions = Combination of operator and operands that break down into a single value
+Result is evaluated or equal to.
+Programming has PEMDAS. MD and AS goes from left to right.
+Unexpected behaviour otherwise. Use parenthesis otherwise.
+Programms made up of statements that do stuff, Math calculations and other stuff.
