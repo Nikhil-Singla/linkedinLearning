@@ -37,3 +37,10 @@ Learn -> Interface Overview [Learn yourself!]
 Need python extension -> Tools -> "Languages" -> Python, and then restart.
 Interpreter is needed to be installed using Command Pallete and then Python Interpreter
 
+Download -> Executable (Installation file) -> Launch
+
+File -> Open Folder -> Chose files.
+.vscode = Temp folder for storing metadata.
+Line numbers is also called as the Gutter
+Use color = Syntax highlighting to print out special key words.
+Occurs using the file extension. We can run one single line as well using right click menu.
