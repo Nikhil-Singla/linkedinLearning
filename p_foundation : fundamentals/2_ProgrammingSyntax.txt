@@ -8,10 +8,15 @@ Python: General Purpose - Web Apps, Company tools, scientific analysis and creat
 Python is also available on all 3 major platforms.
 
 Mac comes shipped with Python. Check version -> Terminal app (Work in directories and execute scripts; Work with Python.) 
-Terminal: Utilities. Cmd+Space. 
+Terminal: Utilities/Cmd+Space. 
 python (gives version of python). 
 Print out - Display result of command on screen.
 Version number: New features/changes/impact on language.
 Inside python prompt: ">>>"
 exit() function to exit terminal/install latest version using wizard from .org page for python3
+python.org/downloads for the latest version of python (installer, using wizard)
+
+Python on windows via their website. 
+Version number: New features/changes/impact on language.
+Executable version.
 
