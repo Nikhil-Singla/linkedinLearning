@@ -18,3 +18,12 @@ No spaces and case sensitive and cannot be keywords.
 import keywords
 print(keyword.kwlist) to get all the keywords.
 Short, descriptive names to make things easy to understand.
+
+Programming is a lot about numbers.
+Python treats them based on difference if the number is whole or fractional.
+python3 command line to start command.
+** = Exponents      (Exponential growth)
+// = Floor division (Whole number portion)
+% = modulo operator (Remainder portion)
+Never use commas with numbers. Javascript has no distinctions for with or without decimal places.
+Other languages = Float (Floating point integer) ie number with a decimal place [Precision by python in extra spaces]
