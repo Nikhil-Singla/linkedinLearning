@@ -6,4 +6,15 @@ Equal -> Value on right stored on left. Doesn't mean two sides are equal.
 Variables represent different datatypes. Datatype allows to put variables in different categories.
 Integer is whole number, no decimal. Letters and numbers = String. Check type using the type function.
 int, str = Integer, String
- 
+
+Def variable and type before use = Java, C# and C++. Declare type, variable name.
+Strict programming language = Cannot reassing datatype using assignment operator.
+Python is not, as its possible to use the variable at the same time as declaring it.
+Relaxed Languages = Flexible + Less code
+Strict Languages = Fewer surprises/bugs on runtime
+
+Rules: Only letters, numbers and underscores and no numbers at start.
+No spaces and case sensitive and cannot be keywords.
+import keywords
+print(keyword.kwlist) to get all the keywords.
+Short, descriptive names to make things easy to understand.
