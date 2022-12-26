@@ -55,3 +55,12 @@ Result is evaluated or equal to.
 Programming has PEMDAS. MD and AS goes from left to right.
 Unexpected behaviour otherwise. Use parenthesis otherwise.
 Programms made up of statements that do stuff, Math calculations and other stuff.
+
+Programms have bugs. 
+Need to understand type of bug/error: 3 Types
+1) Syntax - Broke the rules of the language. Eg: print(Hello World) in python
+2) Runtime - Computer was unable to execute the portion of your code. Eg: 10 * (2/0) in python
+3) Semantic - Output doesn't match the expected output. Eg: name = "Alice"; print("Hello name") doesn't work in python
+Best way to know about runtime errors is to look it up on StackOverflow or similar
+Semantic are most challenge to troubleshoot. Make tiny changes/do physical activity to let the blood flow before coming back
+Laugh and keep moving forward!
