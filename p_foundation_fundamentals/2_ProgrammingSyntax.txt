@@ -64,3 +64,13 @@ Need to understand type of bug/error: 3 Types
 Best way to know about runtime errors is to look it up on StackOverflow or similar
 Semantic are most challenge to troubleshoot. Make tiny changes/do physical activity to let the blood flow before coming back
 Laugh and keep moving forward!
+
+To get Python code suggestions, you need to tell VS Code which Python interpreter to use: True
+Which concern could be considered a disadvantage of Python under certain circumstances?: General purpose language
+Why does VS Code need a Python interpreter to be specified?: To provide code suggestions
+When working with the Terminal inside of VSCode, how can you expand the pane?: Click the up arrow.
+Which is an example of a runtime error?: name = "It's me!" ; print("Hello.", Name)
+
+
+
+
