@@ -1,0 +1,9 @@
+Code writing = Handling of information
+Eg. Game (score), Bankapp (balance) etc.
+Variable: Container for a value. Space in memory where we put data as a reference.
+Labelled: Giving name and setting value. (Assigning the value done w/ "=" or the assignment operator)
+Equal -> Value on right stored on left. Doesn't mean two sides are equal.
+Variables represent different datatypes. Datatype allows to put variables in different categories.
+Integer is whole number, no decimal. Letters and numbers = String. Check type using the type function.
+int, str = Integer, String
+ 
