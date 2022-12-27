@@ -27,3 +27,5 @@ python3 command line to start command.
 % = modulo operator (Remainder portion)
 Never use commas with numbers. Javascript has no distinctions for with or without decimal places.
 Other languages = Float (Floating point integer) ie number with a decimal place [Precision by python in extra spaces]
+
+Name, address and Emojis = Strings
