@@ -29,3 +29,9 @@ Never use commas with numbers. Javascript has no distinctions for with or withou
 Other languages = Float (Floating point integer) ie number with a decimal place [Precision by python in extra spaces]
 
 Name, address and Emojis = Strings
+String of characters (character, number, symbol and space) 
+Represented by " " 
+Strings can be passed directly or stored in variables
+print("Hi") or a = "Hi"; print(a) is same. '' also work in python for Strings
+Difference is in the content of strings. Invalid syntax = nested double quotes.
+Use single quotes to distinguish.  Mix of quotes is also a syntax error.
