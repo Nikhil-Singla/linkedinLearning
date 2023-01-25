@@ -1,0 +1,50 @@
+Field Programmable Gate Arrays
+
+Special type of Integrated Circuit implements a custom system.
+Write code: VHDL/Verilog
+Synthesis the code: Compile [Code -> Connections]
+
+FPGA are NOT Microcontrollers
+- More flexible as MC's are application specific IC's (ASIC's)
+- FPGA may implement CPU/accomplish more than MC's
+- FPGA's don't execute code unlike Microcontrollers4
+Embedded systems evolved from just MC's to FPGA's
+
+Applications are similar to Microcontrollers.
+90% of the FPGA is supplied by Xilinx and Altera, and the rest 10% is shared.
+
+Inside:
+- Logic Blocks (Lookup tables, Flip-Flops and Multiplexers)
+- Interconnect Block (Switches, Route logic elements)
+- I/O Blocks (Input and Output pins)
+- Memory Block (Implement large arrays)
+- Clock manager Block (Implement sequential systems)
+
+Logic Blocks - Elements that implement design
+AKA Configurable Logic Block [CLB]
+    Logic Block contains a number of Logic Cells (Smaller group)
+    Contain Logic Elements but not Logic Gates
+
+Example of Logical Cell
+    Lookup Tables [LUT's] are hardware implementation of Lookup Tables/Arrays w/ single bits of data
+    3-LUT => 3 Binary Input Lookup Table : Binary function focus vs a Gate function focus
+    Full Adders [FA] are building blocks for arithemetics. Take carry bit and also send carry result.
+    Multiplexer [mux] 
+    DeFlip Flop [DFF] basic block for sequential systems, ie systems having a notion of time.
+    Combine all three to form FPGA that can do Arithemetic, Logic and Sequential applications
+
+Interconnects: Connect Logic Cells across multiple Logic Blocks
+Implemented via switch boxes containing simple semiconductor switches (open/close depending on logic state)
+FPGA has so many interconnects that its humanly impossible to create that many designs by hand, called Interconnect Fabric 
+    and also requires software to keep track of all the routing needed.
+
+Other blocks:
+- I/O Blocks (Input and Output pins)
+- Memory Block (Implement large arrays): Most applications require RAM or ROM and need to support segmentation to meet the programmers needs. Address input and data lines.
+- Clock management Block (Implement sequential systems): External Oscillators required [Changing the incoming frequency to reduce with rescalars or boost with PLL's, FLL's]
+- Hard IP Cores: Intellectual Property Cores [Functional Blocks available for use. Implemented in hardware. Accessible from code, keep design smaller and speed up designs]
+
+I/O Blocks:
+    Intergrated circuits work with low power/internal voltage, but outside world needs higher powers.
+    I/O blocks have line drivers to provide power to outputs and line receivers to condition incoming signal to lower power level.
+    Have protection devices. Output pins customize other parameters.
