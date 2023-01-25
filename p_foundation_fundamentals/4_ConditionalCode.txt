@@ -1,0 +1,40 @@
+Things are absolute in computer. Only True or False ['1' or '0']
+Expression having only 2 outputs is called a conditional or boolean expression.
+Relational Operators: Help create conditions. Work on 2 operands and return true/false based on the relation.
+
+'==' : Equality Operator
+Make sure to not use '=' when using relational operators.
+Most common way for computers is using an "if" statement.
+
+if <condition>
+    <do work if true>
+end if
+EG: 
+
+if 5 < 6:   # ":" is part of the python syntax
+    print("Yes 5 is less than 6.")
+
+Code that has been grouped together by the means of identation forms a block. Each statement is the part of the block until the line isn't indented anymore.
+Python requires the identation after the if statement or it throws the identation error. It needs 4 spaces for indenting/ 1 tab space.
+
+If-Else statement has just one more else statement with a colon and an else block.
+AKA Else clause as we don't find it without the accompanying IF statement.
+Else works when the condition of if statement evaluates to false.
+We skip over the body of the if statement if the code doesn't evaluate to true.
+
+Syntax is different for all languages. Javascript instead uses ( ) for the "if" condition and { } to surround the if block. Identation isn't necessary either.
+Ruby works similarly, except no parenthesis or even colon. Just separate lines and addition of the end keyword.\
+
+Chapter Quiz: 
+
+With if-else statements, we will always execute one of the code blocks depending on the result of the condition test. ANS - TRUE
+
+What is the issue with the following code?. ANS - The conditional statement is checking for equality.
+number = input("Enter a number: ")
+if number == 10:
+    print("The number is greater than 10.")
+else:
+    print("The number is less than 10.") 
+# NOT - The input statement cannot accept numbers.
+
+
