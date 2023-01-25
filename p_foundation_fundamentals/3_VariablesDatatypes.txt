@@ -40,3 +40,27 @@ Python doesn't count whitespaces. Spend more time understanding/reading code tha
 Right click anywhere and run python file in terminal.
 Input function takes some user input and stores it in a variable.
 Whitespace matters when related to the special 30 keywords
+
+["Virtual Sticky-Notes"] Comments: Describe what code does. (Helps in larger programs that cannot be kept in head)
+Main purpose - Document the code, add examples and know about function/classes.
+Start with #. Line colors green = Comment.
+- No impact on output of the code.
+
+Also help temp ignore code by "commenting it out".
+Summary: Serve as reminders, Debugging, Provide explanations for others.
+
+- Challenge Video : COMPLETED SUCCESSFULLY
+
+Chapter Quiz: 
+Python treats all numbers the same, regardless of numerical value. ANS: FALSE
+
+Although Python ignores empty lines, one place where whitespace does make a difference is inside of _____. ANS: special keywords
+
+What is the output of this Python code?. ANS: Jeff
+first_name = "Jeff"
+first_Name = "Sara"
+print(first_name)
+
+How would you fix the following code to return the remainder of 1,000 divided by 300? 1,000 % 300. ANS: 1000 % 300
+
+What will the following code print? variable = "12" '\n' print(type(variable)). ANS: str
