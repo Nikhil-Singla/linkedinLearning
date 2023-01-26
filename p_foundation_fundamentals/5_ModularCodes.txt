@@ -1,0 +1,31 @@
+Function: Make programs easier to read, write and debug. Is a block of code packaged together with a name. Core feature of all languages.
+AKA Subroutines, Methods etc, a way to break up your code. Ex: print, input, etc 
+Key Benefit: Avoid repeating lines of code.
+Call function by name to do work without repeating ourself.
+Function creation:
+    Functions start with the def keyword in python (short for define).
+    Needs a unique name while respecting the rules of python language.
+    Code block of the function is called its function body.
+Creation is different from call. You need to call the function to actually use it.
+Functions let us provide different output to users based on input.
+Parameters are the variable that allow the function to change its behaviour based on the input value.
+Positional arguments are the values we give to the function during its call. Sometimes they can be used interchangably.
+
+You can use functions that return a value too. 
+Return statement consists of the return keyword with the return value.
+Return value is cornerstone of programming.
+
+Functions are made of parameters and return values.
+void is done for the non-python language return type.
+
+"fun" is the function keyword for Kotlin, but also "{}" for body of the function, furthermore, define the type of the input before passing the parameter.
+"name : type"
+
+"def" and "end" in RUBY
+
+C++ is very familiar
+
+Javascript is very basic with just no returntype and no parameter type. Still use return keyword
+
+Chapter Quiz:
+<ALL QUESTIONS WERE BASIC>

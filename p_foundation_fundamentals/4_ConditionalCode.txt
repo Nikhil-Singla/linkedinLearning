@@ -36,5 +36,3 @@ if number == 10:
 else:
     print("The number is less than 10.") 
 # NOT - The input statement cannot accept numbers.
-
-
