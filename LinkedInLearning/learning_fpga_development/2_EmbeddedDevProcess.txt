@@ -1,0 +1,67 @@
+Divided into 2 parts:
+1) Implementation -
+    Process of moving forward from the abstract design, to the final application.
+    Done by tool chain of programms performing a number of steps (like a compiler).
+
+2) Verification -
+    (Important) Process of testing design in every step of implementation.
+    Iterative process
+
+Steps in Implementation process:
+- Write the source code (description of hardware in development)
+    Need levels of abstraction to write this code in Hardware Description Language (HDL) like, VHDL or Verilog.
+    Can specify connections (structural) or behavior (behavioral) specifications in the system.
+- Logic synthesis (analogus to software compiling)
+    Sometimes also called compiling.
+    Convert source code into net list/logic representation of connections in the design in development.
+    Not all code is synthesizable, need to comply with rules. 
+    Abstraction, Register Transfer Level (RTL) is regarded as synthesizable most of the time. Source code thus is aka RTL code.
+- User constraints
+    Constriants of the final OS. Requirements you want the system to meet.
+    Most important constraint = Timing. Speed of the system.
+    Other constraints are pin assignments, area occupied in the chip, logic level voltages in the pins.
+- Place and Route
+    Net list translated to devices/connections and these inturn are assigned to FPGA (floor plan)
+    Cells -> logic elements, interconnects -> routed.
+- Generate Programming File
+    Output is Binary file (bitstream)
+    Target could be FPGA or some other memory.
+
+More often than not, FPGA's implement internal config memory as volatile RAM.
+So we have on board non volatile memory with bootup procedure that loads contents into FPGA's config RAM.
+
+Steps in Verification Process:
+Implementation process is full of bugs, that's why its necessary to verify in every step.
+- Behavioral Simulation
+    Validate design at source code stage. Reveals how system behaves.
+- Functional Simulation
+    After synthesis which uses the newly produced gate level model
+- Timing Analysis
+    Once timing constraints have been implemented and processed by tool chain. Predict if system will meet the requirements or not for timing constraints.
+- In-Circuit Verification
+    Final application hardware can be tested by in-circuit verification tools provided by FPGA vendor
+
+FPGA Families (currently available) by Xilinx and Intel
+Xilinx 
+    > Latest are called 7 series
+    > Spartan, Artix, Kintex, and Virtex families
+Intel 
+    > Roughly, the Max, Cyclone, Arria and Stratix families are the competing families
+
+Development Boards
+Xilinx Applications 
+    Basys 3 Board by Digilent. Switches, buttons, LED's and Segment displays, VGA Port and general purpose connectors.
+    No onboard VGA controller as its supposed to be implemented in FPGA. Use IP core or own design to implement it.
+    FPGA : Xilinx Artix 7
+Intel Applications
+    DE0-CV Board by Terasic
+    Same as above basically, but has Cyclone 5 FBGA.
+
+Hardware Development Tools: Electric Design Automation (EDA) Tools
+    - Schematic Capture; HDL Code Editor; Simulator, Debugger; Printed Circuit Design; Software Development Tools for onboard microcontrollers.
+    - Intel - Quartus Prime [Lite] + ModelSim Simulator
+    - Xilinx- Vivado Suite, Free license for Vivado called WebPack + XSim Simulator
+
+IP integrator: Design system in top-down fashion. Chose which IP cores to instantiate from Xilinx's library
+>               View of project changes after every step. 
+Intels       : Quartus Prime overview

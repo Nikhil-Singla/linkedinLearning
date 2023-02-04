@@ -7,7 +7,7 @@ Synthesis the code: Compile [Code -> Connections]
 FPGA are NOT Microcontrollers
 - More flexible as MC's are application specific IC's (ASIC's)
 - FPGA may implement CPU/accomplish more than MC's
-- FPGA's don't execute code unlike Microcontrollers4
+- FPGA's don't execute code unlike Microcontrollers
 Embedded systems evolved from just MC's to FPGA's
 
 Applications are similar to Microcontrollers.
