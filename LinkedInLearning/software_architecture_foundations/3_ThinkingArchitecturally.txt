@@ -1,0 +1,62 @@
+Conway's law states that the architecture of software and communication structure of an organization must match. Siloed organizations with departments for database, 
+UI, and business logic result in an N-Tier system with a slow development process. To speed up development, an agile approach with cross-functional teams is required, 
+leading to a change in the organization's structure. The architecture must also change to microservices to support the agile process. In conclusion, architecture 
+is a model of the organization and must change to match the problem being solved. The biggest mistake in adopting agile is not changing the code to match the agile process.
+
+- Conway's law states that the architecture of software must match the communication structure of an organization.
+- Siloed organizations with different departments for different tasks result in slow software development.
+- The agile approach requires cross-functional teams and a change in the organization's structure.
+- The architecture must change to microservices to support the agile process.
+- Architecture is a model of the organization and must change to match the problem being solved.
+- The biggest mistake in adopting agile is not changing the code to match the process.
+- The architecture of software and communication structure of an organization must match.
+- Siloed organizations with different departments slow down software development.
+- Agile approach requires cross-functional teams and change in organization's structure.
+- Architecture must change to microservices to support agile process.
+- Architecture is a model of the organization and must change to match the problem.
+- Not changing code to match agile process is the biggest mistake in adopting agile.
+
+The traditional approach to software design, also known as big upfront design (BUFD), used to be the norm in the past but has since been replaced by the agile approach, 
+which emphasizes incremental design. The BUFD approach would often result in systems that didn't meet changing requirements and would often fail. 
+The agile approach, on the other hand, involves building the software one piece at a time, with each story contributing to the design's evolution. 
+The architecture is not fully constructed from the start, but rather evolves as the work progresses.
+
+- Agile design approach is preferred over the traditional big upfront design approach.
+- The big upfront design approach would often result in systems that didn't meet changing requirements and would often fail.
+- The agile approach involves building the software incrementally, with each story contributing to the design's evolution.
+- The architecture evolves as the work progresses.
+- Agile approach is driven by the needs of the user, not by technology.
+- The technology decision is deferred until the last responsible moment.
+
+Top-Down vs Bottom-Up is a design methodology comparison in software development. Bottom-up design focuses on developing code around the technology, 
+while top-down design focuses on building incrementally around the needs of users. In top-down design, the structure of the code maps exactly to the structure 
+of the problem domain, making it easier to reflect the structure of the business. Domain-driven design (DDD) is an example of top-down design that centers 
+around the concept of bounded context. A bounded context models natural divisions within a business. Communication is focused on the work that happens in each context 
+and there is a ubiquitous language for each context. DDD also drives the organization towards a structure that reflects the bounded context, making changes easier to implement. 
+In-tiered systems have scattered changes across multiple tiers, whereas top-down design has changes concentrated in a single bounded context. 
+This results in lower communication overhead and faster delivery of changes.
+
+- Bottom-up design focuses on technology, top-down on user needs
+- Top-down design maps the structure of code to the structure of the problem domain
+- Domain-driven design (DDD) is an example of top-down design
+- Bounded context models natural divisions within a business
+- There is a ubiquitous language for each context in DDD
+- DDD drives the organization towards a structure that reflects the bounded context
+- Changes are easier to implement in top-down design
+- In-tiered systems have scattered changes across multiple tiers
+- Top-down design has changes concentrated in a single bounded context
+- Lower communication overhead and faster delivery of changes with top-down design
+
+The domain (bounded contexts) plays a crucial role in program implementation and should be modeled accurately. The context can be translated into program units like classes, 
+packages, or subsystems in a monolith architecture and into small, standalone programs in a microservice architecture. The choice of implementation, such as database technology, 
+messaging, caching, logging, and monitoring, should be made by the architect who collaborates with operations and programmers. The platform choice is also an important factor
+and the author suggests using open-source solutions to avoid vendor lock-in.
+
+- Bounded contexts are crucial in program implementation
+- The context can be translated into program units in a monolith architecture and into standalone programs in a microservice architecture
+- The choice of implementation, such as database technology, messaging, caching, logging, and monitoring, is made by the architect
+- The platform choice is an important factor and the author suggests using open-source solutions to avoid vendor lock-in
+- The architect collaborates with operations and programmers
+- Research is an essential part of the architect's job
+
+
