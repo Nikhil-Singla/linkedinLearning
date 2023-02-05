@@ -1,0 +1,64 @@
+
+Traditional software architecture:
+The architect creates a complete design before any code is written.
+This person is often seen as the most intelligent person in the room and can be isolated from the implementation process.
+This approach can be inefficient and adds risks to the software development process.
+The big upfront design can never truly capture the needs of end users and often becomes obsolete quickly.
+The centralized decision-making process of the architect can slow down the development process and add costs.
+This method is also outdated, as the use of Unified Modeling Language (UML) is not commonly used anymore.
+
+Modern Agile development:
+The approach to architecture is more flexible and iterative.
+This allows for changes and adjustments to be made as the software is being built and the needs of end users are better understood.
+
+Modern architects play a different role in software development compared to the traditional "waterfall" approach. In waterfall, development is seen as 
+a series of dependent steps performed in sequence and design is done upfront. In contrast, modern software development uses an "Agile" approach 
+which welcomes changes and values learning through experimentation. In an Agile environment, design is done incrementally and the focus is on 
+constantly releasing small working software and evolving based on feedback.
+
+In an Agile environment, everyone is considered an architect at some level, and the traditional role of an architect is changed to a support role 
+known as a "Servant Leader." The main responsibility of an Agile architect is to educate and coordinate teams and make sure that everyone understands 
+and considers architectural issues as they work. The architect also ensures coherence across the system and provides guidance, not orders. 
+Good Agile architects work collaboratively and eliminate the risk of a single point of failure. Their job is to keep the big picture in mind and guide 
+the structure of the entire system in a direction that will work best.
+
+The role of an architect in modern software development has changed with the shift towards Agile development practices. Agile emphasizes flexibility and learning 
+as work progresses, rather than having a rigid plan in place beforehand. 
+
+A day in the life of an architect, Frank Lloyd Left, is described, starting with a meeting with a cross-functional agile team at Acme, Inc. 
+The team collaborates to make an architecture and decides on the microservice pattern for the new project. The next step is to determine the bounded context and key user stories. 
+The sprint review is also mentioned, which is a way to get feedback from customers about the design and implementation. Frank also mentors and teaches
+architecture to the teams and meets with a team member to go over her presentation on reactive systems.
+
+- Frank Lloyd Left is an agile architect at Acme, Inc.
+- He meets with a cross-functional agile team to discuss architectural patterns for a new project.
+- The team collaborates to make an architecture and decides to use the microservice pattern.
+- The next step is to determine the bounded context and key user stories.
+- The sprint review is a way to get feedback from customers about the design and implementation.
+- Frank also mentors and teaches architecture to the teams.
+- He meets with a team member to go over her presentation on reactive systems.
+
+Frank's afternoon, includes a productive lunch time spent playing card games with coworkers from other teams. This time helps solve inter-team problems 
+that would otherwise be left unresolved. Afternoon is devoted to a guild meeting of an architecture-focused group where the goal is to learn from each other 
+and coordinate on a regular basis. The meeting starts with a talk and then proceeds to a whiteboard session where a problem is solved collaboratively by the group. 
+The meeting ends with changes made to the system architecture and Frank finishes his day sitting in on a team interview. An agile architect works collaboratively 
+with the whole organization to incrementally create an evolving architecture and spread expertise to improve the organization's architecture.
+
+- A productive lunch time is spent playing card games with coworkers from other teams to solve inter-team problems.
+- Afternoon is devoted to a guild meeting where the goal is to learn from each other and coordinate on a regular basis.
+- The guild meeting includes a whiteboard session where problems are solved collaboratively by the group.
+- An agile architect works collaboratively with the whole organization to create an evolving architecture.
+- The architect's role includes being an expert, coordinator, teacher, and mentor.
+- The job of the architect is to spread expertise to improve the organization's architecture
+
+The speaker, Allen is discussing the path to becoming a software architect. They argue that all good architects start out as developers, and stress the importance of 
+being a skilled programmer. They also mention that as you program, you learn important lessons about design and architecture, which can be further developed 
+through experience working with different systems, reading code, attending conferences and meetups, and by practicing design skills through building projects. 
+Finally, they emphasize the importance of communication and presentation skills for architects.
+
+All good architects start as developers and need to be skilled programmers.
+Understanding design patterns is the first step towards architecture.
+Experience working with different systems and reading code is essential for developing architectural skills.
+Attending conferences, forming a study group, and practicing through building projects are important for continuing education and growth.
+Communication and presentation skills are crucial for software architects.
+Architecture is the interaction of design patterns to create a larger system.
