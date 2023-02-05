@@ -1,0 +1,11 @@
+Crucial to business success to have a good underlying architecture.
+Architecture is the link between development process and implementation.
+
+What is Software Architecture?
+- Architect (Noun) : Designer of complete systems
+Software architecture refers to the design of the structure of a system, without including specific implementation details. 
+While some people may view software architecture as simply assembling pre-made components, it's more about considering the needs of the customers 
+and the business they operate in, beginning with the customer's problem and working downwards towards the implementation. 
+The technology used for implementation is considered last, and the best software architects have honed their skills over time, 
+including years of experience as programmers, to develop a sense of aesthetics. The aesthetics of software architecture are important, and 
+it takes a great deal of experience to develop good judgment.
