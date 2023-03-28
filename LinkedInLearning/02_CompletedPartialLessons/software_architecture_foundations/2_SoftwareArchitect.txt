@@ -1,4 +1,3 @@
-
 Traditional software architecture:
 The architect creates a complete design before any code is written.
 This person is often seen as the most intelligent person in the room and can be isolated from the implementation process.

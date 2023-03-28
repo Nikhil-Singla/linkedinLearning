@@ -1,0 +1,6 @@
+5 Main types of Architectural Patterns:
+- Monoliths
+- Microkernel (plugin) Architecture
+- Message-based Architecture
+- Microservice and Mini-services
+- Reactive and Choreographed systems
