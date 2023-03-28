@@ -1,0 +1,11 @@
+Enterprise Architecture (EA) refers to the structure of a business, encompassing its processes and software infrastructure. It's important that the software and infrastructure 
+reflect the business model to ensure efficient operations. However, the approach to EA can lead to bloated and complex systems that are difficult to maintain, hindering its 
+intended cost-saving benefits. The tendency towards standardization can result in unnecessary complexity and systems that are difficult to understand. Agile systems tend to 
+be small, standalone collections of systems that cooperate with each other. EA can lead to enormous databases and complex systems that nobody fully understands, making it a 
+failed approach from an agile perspective.
+
+Design patterns originated from Christopher Alexander's work on successful building architecture, and are a set of possible designs or implementations that are discovered, 
+not invented. They can interact in complex ways, and understanding them is useful for software development by providing a well-understood underlying architecture. Examples 
+of design patterns include creational, structural, and behavioral patterns, such as the Singleton, Adapter, and Observer patterns. They provide a common vocabulary for 
+developers to communicate and collaborate more effectively, allowing developers to focus on implementing unique features while relying on established structures that have 
+been proven to work. By applying design patterns, developers can write more efficient, maintainable, and scalable code.
