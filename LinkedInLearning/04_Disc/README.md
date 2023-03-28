@@ -1,4 +1,4 @@
-# Disc
+# Discontinued
 
 This folder contains courses from LinkedIn Learning that I have discontinued from learning due to them being not aligned with my current learning goals.
 
