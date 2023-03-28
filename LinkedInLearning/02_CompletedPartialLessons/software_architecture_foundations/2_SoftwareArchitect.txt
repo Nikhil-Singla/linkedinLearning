@@ -25,40 +25,17 @@ the structure of the entire system in a direction that will work best.
 The role of an architect in modern software development has changed with the shift towards Agile development practices. Agile emphasizes flexibility and learning 
 as work progresses, rather than having a rigid plan in place beforehand. 
 
-A day in the life of an architect, Frank Lloyd Left, is described, starting with a meeting with a cross-functional agile team at Acme, Inc. 
-The team collaborates to make an architecture and decides on the microservice pattern for the new project. The next step is to determine the bounded context and key user stories. 
-The sprint review is also mentioned, which is a way to get feedback from customers about the design and implementation. Frank also mentors and teaches
-architecture to the teams and meets with a team member to go over her presentation on reactive systems.
+Frank Lloyd is a modern architect leading a cross-functional agile team at Acme, Inc. He encourages input from everyone and uses dot voting to rank notes. 
+The team decides to use the microservice pattern and will meet again for event storming. Frank also attends a guild meeting to share knowledge with other architects 
+and developers. He has a one-on-one meeting with the CTO to discuss the project's progress and challenges. The day ends with a retrospective meeting with the team 
+to review their work and identify areas for improvement. As an agile architect, Frank facilitates collaboration and communication between teams to deliver valuable 
+software to customers.
 
-- Frank Lloyd Left is an agile architect at Acme, Inc.
-- He meets with a cross-functional agile team to discuss architectural patterns for a new project.
-- The team collaborates to make an architecture and decides to use the microservice pattern.
-- The next step is to determine the bounded context and key user stories.
-- The sprint review is a way to get feedback from customers about the design and implementation.
-- Frank also mentors and teaches architecture to the teams.
-- He meets with a team member to go over her presentation on reactive systems.
+The afternoon emphasizes his interactions with other teams and his participation in a guild meeting focused on architecture. Frank's role is to coordinate, 
+teach, and mentor while spreading his expertise to improve the organization's architecture. The article underscores the importance of teamwork, collaboration, communication, 
+and continuous improvement in creating an evolving architecture.
 
-Frank's afternoon, includes a productive lunch time spent playing card games with coworkers from other teams. This time helps solve inter-team problems 
-that would otherwise be left unresolved. Afternoon is devoted to a guild meeting of an architecture-focused group where the goal is to learn from each other 
-and coordinate on a regular basis. The meeting starts with a talk and then proceeds to a whiteboard session where a problem is solved collaboratively by the group. 
-The meeting ends with changes made to the system architecture and Frank finishes his day sitting in on a team interview. An agile architect works collaboratively 
-with the whole organization to incrementally create an evolving architecture and spread expertise to improve the organization's architecture.
-
-- A productive lunch time is spent playing card games with coworkers from other teams to solve inter-team problems.
-- Afternoon is devoted to a guild meeting where the goal is to learn from each other and coordinate on a regular basis.
-- The guild meeting includes a whiteboard session where problems are solved collaboratively by the group.
-- An agile architect works collaboratively with the whole organization to create an evolving architecture.
-- The architect's role includes being an expert, coordinator, teacher, and mentor.
-- The job of the architect is to spread expertise to improve the organization's architecture
-
-The speaker, Allen is discussing the path to becoming a software architect. They argue that all good architects start out as developers, and stress the importance of 
-being a skilled programmer. They also mention that as you program, you learn important lessons about design and architecture, which can be further developed 
-through experience working with different systems, reading code, attending conferences and meetups, and by practicing design skills through building projects. 
-Finally, they emphasize the importance of communication and presentation skills for architects.
-
-All good architects start as developers and need to be skilled programmers.
-Understanding design patterns is the first step towards architecture.
-Experience working with different systems and reading code is essential for developing architectural skills.
-Attending conferences, forming a study group, and practicing through building projects are important for continuing education and growth.
-Communication and presentation skills are crucial for software architects.
-Architecture is the interaction of design patterns to create a larger system.
+Essentially one should understand that all good architects begin as developers and must possess strong programming skills. The importance of learning design and architecture 
+through experience working with different systems, reading code, and attending conferences and meetups is priceless. The significance of practicing design skills through building 
+projects and forming study groups cannot be stressed enough. Furthermore, communication and presentation skills plays a crucial role for architects. Lastly, architecture is the 
+result of the interaction of design patterns in creating a larger system.
