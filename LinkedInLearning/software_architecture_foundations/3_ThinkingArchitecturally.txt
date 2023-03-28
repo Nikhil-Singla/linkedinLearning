@@ -59,4 +59,4 @@ and the author suggests using open-source solutions to avoid vendor lock-in.
 - The architect collaborates with operations and programmers
 - Research is an essential part of the architect's job
 
-
+Finishing the rest of the subject directly w/o note taking due to reaching the targetted information.
