@@ -1,0 +1,16 @@
+Simply put, a programming language is a way of providing instructions to a computer to get it to do things for us. 
+
+Computers, at their core, really only understand electrical signals, and code that directly interacts with the processing 
+hardware on your computer is called machine language.
+
+Low level code is abstract, higher level code is more easier to read and write. Python and JavaScript are high level and lower 
+are useful in working with hardware.
+
+Programming Paradigm is just an agreed upon approach to writing and organizing your code. Eg: object-oriented programming and functional programming. 
+
+Object-oriented programming involves organizing your code into individual classes which combine state and behavior. Class = blueprint, code instantiates these blueprints 
+as objects. Objects can send messages to each other, but they don't need to know what is actually happening inside. 
+Functional programming involves organizing your code into pure functions that always return the same result and avoid side effects. A necessary feature of functional 
+programs is that functions are first-class objects, which means that they can be stored as variables and passed to  and returned from other functions. 
+
+Basic differences include code blocks (indent vs curly braces) and how their variables are declared (dynamic typing but JS has let and const since 2015)
