@@ -1,0 +1,15 @@
+Programmers develop code based on their needs. Might even have to manage code (Y2K for example).
+Depends on what service their customer base needed!
+A week in a programmers life is busy!
+    Monday is usually planning and discussing priorities!
+    Tuesday involves working/writing code. 
+    Wednesday implies debugging portion of the journey X_X.
+    Thursday is running code and then revising it with tests.
+    Friday might be review and team discussions ^^
+
+Some challenges that you might face though include, naming due to the sheer quantity of the stuff needing naming, 
+working with legacy code, and providing timeline/estimates of work (easy to misscount :/)
+
+Learning can be achieved by keeping skills sharp through podcasts, newsletters and related stuff. Working on side projects might also help :D.
+
+Once a programmer has their tasks for the week, they can begin to research the features at hand.
