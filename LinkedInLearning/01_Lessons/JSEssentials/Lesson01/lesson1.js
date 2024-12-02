@@ -24,8 +24,34 @@ const backpack = {
         right: 26,
     },
     lidOpen: false,
-    toggleLid: function (lidStatus){
+
+    toggleLid: function (lidStatus) {
         this.lidOpen = lidStatus;
-        updateBackpack('lid status changed')
-    }
-}
+        updateBackpack('Lid status changed.');
+    },
+
+    newStrapLength: function(lengthLeft, lengthRight) {
+        this.strapLength.left = lengthLeft;
+        this.strapLength.right = lengthRight;
+        updateBackpack('Strap length changed');
+    },
+};
+
+const markup = (backpack) => {
+    return `
+    <div>
+        <h3>${backpack.name}</h3>
+        <ul>
+            <li>Volume: ${backpack.volume}</li>
+            <li>Color: ${backpack.color}</li>
+            <li>Number of Pockets: ${backpack.pocketNum}</li>
+            <li>Strap Lengths: L - ${backpack.strapLength.left}, R - ${backpack.strapLength.right}</li>
+            <li>Top Lid: ${backpack.lidOpen ? "Open" : "Closed"}</li>
+        </ul>
+    </div>
+    `;
+};
+
+const main = document.createElement("main");
+main.innerHTML = markup(backpack);
+document.body.appendChild(main);
