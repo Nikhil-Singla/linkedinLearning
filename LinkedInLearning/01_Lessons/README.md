@@ -7,3 +7,5 @@ Completed 3/27/2023
 Python vs. JavaScript for Development By: Julie Nisbet and Madecraft (Oct 2021)
 Completed 8/28/2023
 
+JavaScript Essential Training By: Morten Rand-Hendriksen (December 2024)
+
